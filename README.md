@@ -20,3 +20,16 @@ A: Your best shot at contacting the man behind the project, TheMrIron2, is throu
 
 Q: Is this all a one man effort?
 A: Far from it - this wouldn't be possible without the support of the SaveMGO community and their help. TheMrIron2 would like to thank everybody who played a role in this project, no matter how big (website coding, HoodlumDTX) or how small (many people giving feedback) every one of you is appreciated!
+
+Q: Big Boss or Solid Snake?
+A: The original is always the best. Clones can never be as good (Solid is awesome in his own way though) ;)
+
+Q: Can I donate to you guys to help keep it running?
+A: Assuming the room has 100% uptime - no breaks, 12 months straight - it would cost ~€30 per year. Will that sound like a steep price over time? Yes, but we won't be accepting donations. Why not? Because the SaveMGO team who spearheaded the MGO revival did not ask for nor accept a single donation, and we feel it would be wrong to ask for donations as we are just a part of the entire SaveMGO server. We thank you for understanding.
+
+Q: Do you plan to do something similar for MGO2?
+A: No - we haven't even thought about it due to how expensive a PS3 solely as a room would be. Even if money was no object there are still plenty of players on SaveMGO2 - remember, this was primarily created to help to easy any hassle out of MGO1, and there's almost always a game on MGO2 anyway so it's unnecessary.
+
+
+Q: MGO3?
+A: Don't even think about it.
