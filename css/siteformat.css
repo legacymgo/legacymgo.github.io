@@ -4,7 +4,10 @@
 
 }
 body {
-  background-color:#666633;
+      font-family: Helvetica, Sans-Serif;
+      color: white;
+      background-color: #544F3D;
+  }
 }
 
 
@@ -13,6 +16,7 @@ body {
     font-size: 21px;
     text-align: center;
     color: white;
+    font-family: Helvetica, Sans-Serif;
 
     -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 2s; /* Firefox < 16 */
