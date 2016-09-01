@@ -10,10 +10,24 @@ body {
   }
 }
 
+#internal p {
+  margin-top: 30px;
+  font-size: 21px;
+  margin-top: 25px;
+  font-size: 23px;
+  text-align: center;
+  color: white;
+  font-family: Helvetica, Sans-Serif;
 
+  -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+  -moz-animation: fadein 2s; /* Firefox < 16 */
+  -ms-animation: fadein 2s; /* Internet Explorer */ /*#TODO: RENAME INTERNET EXPLORER TO IDIOT EXPLORER */ 
+  -o-animation: fadein 2s; /* Opera < 12.1 */
+  animation: fadein 2s;
+}
 #intro p {
     margin-top: 25px;
-    font-size: 21px;
+    font-size: 23px;
     text-align: center;
     color: white;
     font-family: Helvetica, Sans-Serif;
