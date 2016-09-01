@@ -23,7 +23,7 @@ body {
   -o-animation: fadein 4s; /* Opera < 12.1 */
   animation: fadein 4s;
 }
-#intro p {
+#intro p,iframe {
     margin-top: 25px;
     font-size: 23px;
     text-align: center;
