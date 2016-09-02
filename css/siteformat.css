@@ -11,6 +11,7 @@
   text-align: center;
   color: white;
   background-color:#FF8C00;
+  width: absolute;
 }
 body {
       font-family: Helvetica, Sans-Serif;
