@@ -7,6 +7,11 @@
          -o-animation: fadein 2s; /* Opera < 12.1 */
             animation: fadein 2s;
 }
+#notif {
+  text-align: center;
+  color: white;
+  background-color:#FF8C00;
+}
 body {
       font-family: Helvetica, Sans-Serif;
       color: white;
