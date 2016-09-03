@@ -19,7 +19,7 @@ Q: How can I contact TheMrIron2 about LegacyMGO?
 A: Your best shot at contacting the man behind the project, TheMrIron2, is through Discord. He is in the SaveMGO community - if you have any questions fire away at him
 
 Q: Is this all a one man effort?
-A: Far from it - this wouldn't be possible without the support of the SaveMGO community and their help. TheMrIron2 would like to thank everybody who played a role in this project, no matter how big (website coding, HoodlumDTX) or how small (many people giving feedback) every one of you is appreciated!
+A: Far from it - this wouldn't be possible without the support of the SaveMGO community and their help. TheMrIron2 would like to thank everybody who played a role in this project, no matter how big (website coding, HoodlumDTX) (player handling, Funey) or how small (many people giving feedback) every one of you is appreciated!
 
 Q: Big Boss or Solid Snake?
 A: The original is always the best. Clones can never be as good (Solid is awesome in his own way though) ;)
